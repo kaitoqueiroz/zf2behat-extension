@@ -1,5 +1,5 @@
 {
-    "name": "mvlabs/zf2behat-extension",
+    "name": "kaitoqueiroz/zf2behat-extension",
     "description": "Zend Framework 2 extension for Behat",
     "license": "MIT",
     "type": "behat-extension",
@@ -10,8 +10,8 @@
     ],
     "authors": [
         {
-            "name": "David Contavalli",
-            "email": "mauipipe@gmail.com"
+            "name": "Kaito Queiroz",
+            "email": "kaitoqueiroz@gmail.com"
         }
     ],
         
