@@ -30,7 +30,7 @@ In order to install this extension, you only need to add the following in your Z
 
 ```
 "require": {
-     "mvlabs/zf2behat-extension" : "dev-master"
+     "kaitoqueiroz/zf2behat-extension" : "dev-master"
 }
 
 ```
